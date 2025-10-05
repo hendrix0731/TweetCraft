@@ -82,7 +82,7 @@ Below is the Sample visual representation of the project flow:
 
 ## 👨‍💻 Author
 
-**Developed by Harsh Joshi**  
+**Developed by hendrix0731**  
 
 
 ---
